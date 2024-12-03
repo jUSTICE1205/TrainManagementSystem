@@ -1,0 +1,1 @@
+sqlcmd -S CDSOUZA\EARTH -d CarDealership -E -Q "SELECT * FROM PurchaseAudit" -s "," -o "C:\Users\data.txt"

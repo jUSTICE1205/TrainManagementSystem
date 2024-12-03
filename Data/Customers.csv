@@ -1,0 +1,100 @@
+customerId,firstName,lastName,address,phone,email
+1,Francoise,Rautenstrauch,2335 Canton Hwy #6,519-569-8399,francoise.rautenstrauch@rautenstrauch.com
+2,Kendra,Loud,6 Arch St #9757,506-363-1526,kloud@gmail.com
+3,Lourdes,Bauswell,9547 Belmont Rd #21,613-903-7043,lourdes_bauswell@aol.com
+4,Hannah,Edmison,73 Pittsford Victor Rd,604-334-3686,hannah@yahoo.com
+5,Tom,Loeza,447 Commercial St Se,514-487-6096,tom.loeza@gmail.com
+6,Queenie,Kramarczyk,47 Garfield Ave,306-421-5793,queenie.kramarczyk@kramarczyk.org
+7,Hui,Portaro,3 Mill Rd,506-827-7755,hui_portaro@cox.net
+8,Josefa,Opitz,136 W Grand Ave #3,519-788-7645,josefa.opitz@opitz.org
+9,Lea,Steinhaus,80 Maplewood Dr #34,905-618-8258,lsteinhaus@cox.net
+10,Paola,Vielma,58 Hancock St,905-456-1117,paola_vielma@aol.com
+11,Hortencia,Bresser,808 Calle De Industrias,902-256-6791,hbresser@aol.com
+12,Leanna,Tijerina,2859 Dorsett Rd,416-719-2114,leanna@cox.net
+13,Danilo,Pride,6857 Wall St,403-212-4945,danilo_pride@hotmail.com
+14,Huey,Marcille,169 Journal Sq,780-639-3619,huey.marcille@gmail.com
+15,Apolonia,Warne,3 E 31st St #77,506-978-1488,apolonia@gmail.com
+16,Chandra,Lagos,7 N Dean St,416-716-6446,chandra.lagos@lagos.org
+17,Crissy,Pacholec,85 S State St,705-477-2307,crissy@aol.com
+18,Gianna,Branin,100 Main St,403-337-7162,gianna@aol.com
+19,Valentin,Billa,6185 Bohn St #72,306-291-5073,vbilla@yahoo.com
+20,Ilona,Dudash,2 Sutton Pl S #5727,819-536-7034,idudash@dudash.com
+21,Willard,Lablanc,1534 Sidco Dr,780-384-5410,wlablanc@yahoo.com
+22,Lauryn,Randol,4207 Leon Rd,604-236-4625,lauryn@yahoo.com
+23,Laurena,Begin,7564 N Academy Ave,519-790-8660,laurena.begin@begin.com
+24,Elise,Michelle,88 E Saint Elmo Rd,905-652-4509,elise@gmail.com
+25,Corrie,Kardell,75 Westchester Ave,514-203-7817,corrie_kardell@aol.com
+26,Kimberely,Rabuse,89 W 35th St #1,519-912-5533,kimberely.rabuse@cox.net
+27,Tish,Violett,1 Norris Ave #4095,450-840-7605,tish.violett@violett.com
+28,Hollis,Stanfield,5174 Interstate 45 N,780-574-5620,hollis.stanfield@aol.com
+29,Andree,Christmann,765 Rock Island Rd,519-872-6826,andree.christmann@cox.net
+30,Lyla,Fucillo,7979 33  191,902-844-1174,lyla_fucillo@cox.net
+31,Felton,Yafuso,202 Madison Ave,613-749-1169,felton.yafuso@gmail.com
+32,Dell,Polino,56 Corporate Dr,819-255-1725,dell_polino@polino.com
+33,Nohemi,Leko,37 Us Highway 12e E #6,705-838-9265,nohemi@aol.com
+34,Tambra,Lembke,6734 W Jackson Blvd,250-353-7479,tlembke@lembke.org
+35,Vicki,Maikoksoong,7 Tomahawk Dr,604-231-6180,vicki@gmail.com
+36,Renato,Airhart,1 Vernon Blvd,403-444-2250,renato_airhart@hotmail.com
+37,Lenita,Darbro,2726 Franklin Hill Rd,250-749-4517,lenita@yahoo.com
+38,Barney,Hagen,6335 Fort Myer Dr,450-526-5424,barney@yahoo.com
+39,Matthew,Armacost,220 Old Us Highway 441,705-417-7221,matthew_armacost@gmail.com
+40,Belen,Nelton,77 Central Pky N,250-768-5812,bnelton@gmail.com
+41,Iesha,Wardle,781 Alabama Ave,416-989-2001,iesha@gmail.com
+42,Francesco,Sarchet,22 Dearborn St,306-524-4509,francesco@hotmail.com
+43,Paulene,Rhule,21 E 64th Ave,418-348-2107,paulene_rhule@rhule.org
+44,Carole,Hughlett,9 N Central Ave,604-262-8556,carole_hughlett@hughlett.com
+45,Miss,Dunning,38 Douglas Rd E #39,306-508-8874,mdunning@gmail.com
+46,Elfrieda,Hinsch,4929 Sidney St #8276,250-454-9384,elfrieda_hinsch@hinsch.org
+47,Edelmira,Calzado,4936 Walcott Rd,306-611-7185,edelmira@hotmail.com
+48,Jaime,Wasurick,6760 E Fayette St #9,450-531-8633,jaime_wasurick@hotmail.com
+49,Lera,Hua,6638 S Webster St #491,506-556-4300,lhua@aol.com
+50,Jame,Mastro,4465 James St,519-920-7003,jmastro@aol.com
+51,Jillian,Hailstone,8721 Everett Rd,905-864-2257,jhailstone@yahoo.com
+52,Louis,Zarling,6 E Kingsbridge Rd,418-568-3216,louis@zarling.com
+53,Emmett,Mcshaw,920 Union Blvd,705-581-1220,emmett_mcshaw@cox.net
+54,Tammy,Sams,5 Secaucus Rd,250-226-1002,tammy_sams@sams.com
+55,Willis,Wylie,646 9th St,418-833-1949,willis@yahoo.com
+56,Maxima,Brzozowski,864 Aupuni St,905-569-6732,mbrzozowski@aol.com
+57,Boris,Latif,9390 Fortin Dr,418-459-4884,boris.latif@latif.com
+58,Salina,Knavel,4 Newark St,613-280-7170,salina.knavel@gmail.com
+59,Justa,Dini,8 J St,250-982-9377,justa.dini@hotmail.com
+60,Amalia,Wolfgang,394 Dice Rd #861,519-219-3608,amalia_wolfgang@wolfgang.org
+61,Felix,Tutterrow,92 W 39th St #9990,519-426-7161,ftutterrow@tutterrow.org
+62,Eura,Mcglocklin,9 N Monroe St,306-979-2571,eura@mcglocklin.org
+63,Lang,Heuring,2 Global Rd,519-985-7311,lang@cox.net
+64,Agustin,Lakatos,23 E Wacker Dr #64,819-365-5394,agustin.lakatos@hotmail.com
+65,Jaime,Lowrance,1 Nw 167th St,204-438-6204,jaime.lowrance@lowrance.org
+66,Carman,Gudiel,1 Frontage Rd,709-366-8943,carman@gmail.com
+67,Argelia,Hofbauer,5 Columbia,604-823-2881,argelia.hofbauer@cox.net
+68,Mammie,Cisney,14 E 30th St,514-205-4258,mammie@cox.net
+69,Rashad,Menino,8 Commercial Ave,613-697-2555,rashad.menino@menino.com
+70,Janna,Bastain,41 Drive  Hwy 54s S,604-575-7837,janna@bastain.com
+71,Callie,Neikirk,6601 Park Ave #9924,905-465-6909,callie.neikirk@neikirk.org
+72,Coral,Helmcamp,4184 E 142nd St,416-589-6075,coral.helmcamp@helmcamp.org
+73,Xenia,Mushero,1 El Camino Ave #39,613-714-1829,xenia@aol.com
+74,Adelle,Nitcher,10 Midway Dr,905-998-3758,anitcher@aol.com
+75,Hildegarde,Wehrwein,2 Cottman Ave,604-960-7463,hwehrwein@gmail.com
+76,Phuong,Sugai,8926 E 119th St #9,450-501-4406,psugai@gmail.com
+77,Leontine,Lafoy,191 Richland St #5,418-271-8667,llafoy@aol.com
+78,Darell,Mcalarney,8 E 92nd St,905-846-7737,darell_mcalarney@mcalarney.com
+79,Madonna,Landman,283 Andover St,250-307-7698,madonna.landman@landman.com
+80,Chuck,Berggren,764 Louisville Plac,709-534-6576,chuck@gmail.com
+81,Gregg,Epperheimer,59 W Jackson Blvd #11,514-302-4158,gepperheimer@aol.com
+82,Yan,Bubrig,712 N 5th St,506-493-4894,yan@cox.net
+83,Stephanie,Garlett,6 L St #1761,613-557-7338,stephanie.garlett@gmail.com
+84,Alberto,Stenquist,6126 E 14th St #6,905-435-9456,alberto_stenquist@stenquist.org
+85,Wayne,Shivers,865 Ponce De Leon Blvd,418-374-1965,wayne@aol.com
+86,Kristal,Bothe,896 Pershing Ave,709-976-5766,kristal@hotmail.com
+87,Florencia,Stadel,178 Riverdale Rd,519-961-7871,fstadel@gmail.com
+88,Darrin,Tumolillo,4 Pedretti Ave #2,306-748-5721,darrin@tumolillo.com
+89,Freeman,Rudig,4 W Sedgley Ave,450-347-6388,freeman@yahoo.com
+90,Lazaro,Mollison,31 E Middlefield Rd #8555,450-356-6427,lazaro@gmail.com
+91,Ellsworth,Rieg,7662 Us Highway 46 #9003,613-862-4724,erieg@hotmail.com
+92,Brinda,Mrkvicka,1 Park Ave,506-392-8334,brinda.mrkvicka@gmail.com
+93,Florinda,Mackedanz,2782 Midland Ave,506-230-8075,florinda_mackedanz@mackedanz.org
+94,Nadine,Swartzbeck,3 Federal Blvd,450-353-2331,nadine_swartzbeck@swartzbeck.org
+95,Arlette,Torchio,485 Rolling Rd,514-459-6883,arlette_torchio@hotmail.com
+96,Adolph,Krivanec,6605 Federal St,416-736-1436,akrivanec@hotmail.com
+97,Georgiana,Colbath,505 E 9mile Rd,450-409-1254,gcolbath@hotmail.com
+98,Rana,Lehn,32 Rocklyn Ave,905-286-8285,rlehn@yahoo.com
+99,Chi,Morgan,2953 5th Ave #27,418-922-5578,chi@gmail.com
